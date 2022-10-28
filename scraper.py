@@ -1,4 +1,3 @@
-#r'/Users/Neel/Desktop/wharton/tickers.txt'
 import requests
 from lxml import etree
 from bs4 import BeautifulSoup
