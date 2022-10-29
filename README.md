@@ -52,7 +52,7 @@ Free Cash Flow Yield (FCF Yield)
 <0% - 1 
 
 EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) 
-* Varies heavily by industry
+Varies heavily by industry
 29%+ - 10 
 26-29% - 9
 23-26% - 8
