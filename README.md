@@ -89,7 +89,7 @@ P/E (Price to Earnings) → 10 is most undervalued/1 is most overvalued
 80+ - 1 
 
 P/B (Price to Book) → 10 is most undervalued/1 is most overvalued 
-<1 - 10 
+if <1 - 10 
 1 - 1.5 - 9 
 1.5 - 2.0 - 8 
 2.0 - 2.5 - 7
@@ -98,10 +98,10 @@ P/B (Price to Book) → 10 is most undervalued/1 is most overvalued
 3.5 - 4.0 - 4
 4.0 - 4.5 - 3 
 4.5 - 5.0 - 2
->5.0 - 1
+if >5.0 - 1
 
 Current Ratio 
->8 - 10 
+if >8 - 10 
 6-8 - 9
 4-6 - 8 
 2.5 -4 - 7 
@@ -113,7 +113,7 @@ Current Ratio
 >0.5 - 1
 
 Debt to Equity 
-<0.5-10
+if <0.5-10
 0.8-0.5 - 9
 1.0-0..8 - 8
 1.2-1.0 - 7
@@ -122,4 +122,4 @@ Debt to Equity
 2.5-1.8 - 4
 3.2 - 2.5 - 3
 4.0-3.2 - 2
->4-1
+if >4-1
