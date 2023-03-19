@@ -2,6 +2,8 @@
 
 Stock Data Scraper by Neel Dhall
 
+Some data is not retrivable from the SEC website itself so some data comes from third-party resources as seen in open-sourced Python file.
+
 Access the following data of any public equity at ease via US ticker:
 - Operating Margin
 - ROI
